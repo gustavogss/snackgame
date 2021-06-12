@@ -1,2 +1,2 @@
 # snackgame
-Jogo da cobrinha feito em javascript, html e css
+Jogo da cobrinha feito em html,css e javascript
